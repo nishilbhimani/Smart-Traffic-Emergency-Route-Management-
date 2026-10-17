@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33597362/README.md)
 # Smart-Traffic-Emergency-Route-Management-# 🚨 Pulse · Smart Traffic & Emergency Route Management
 **Project-Based Learning (PBL) — Operating Systems & DBMS**  
 **Graphic Era University | Team T079 (Phase II)**
