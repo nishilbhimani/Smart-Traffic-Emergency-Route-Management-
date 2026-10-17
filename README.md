@@ -17,17 +17,15 @@
 │   ├── index.html            # Monolithic responsive web UI (6 tabs + SVG Mumbai map)
 │   └── assets/               # Fleet vehicle imagery (Ambulance, Fire, Police, Bike Medic)
 │
-├── database/                  # 🗄️ Database Layer (Schemas, Data & Integration)
-│   ├── schema.sql            # Universal DDL schema (9 normalized tables, indexes, FKs)
-│   ├── seed.sql              # Realistic Mumbai emergency transit seed dataset
-│   ├── queries.sql           # Database views, REST API queries & analytical viva queries
-│   ├── init_db.py            # Zero-dependency Python 3 + SQLite database builder
-│   ├── pulse.db              # Pre-built SQLite database ready for immediate queries
-│   ├── ER_DIAGRAM.md         # Mermaid ER model, data dictionary & 3NF normalization
-│   └── README.md             # Complete handoff guide for backend & frontend team members
-│
-└── extracted_phase2/         # University Phase-II LaTeX report documentation
-    └── main.tex              # Academic project progress report
+└── database/                  # 🗄️ Database Layer (Schemas, Data & Integration)
+    ├── schema.sql            # Universal DDL schema (9 normalized tables, indexes, FKs)
+    ├── seed.sql              # Realistic Mumbai emergency transit seed dataset
+    ├── queries.sql           # Database views, REST API queries & analytical viva queries
+    ├── init_db.py            # Zero-dependency Python 3 + SQLite database builder
+    ├── pulse.db              # Pre-built SQLite database ready for immediate queries
+    ├── ER_DIAGRAM.md         # Mermaid ER model, data dictionary & 3NF normalization
+    └── README.md             # Complete handoff guide for backend & frontend team members
+
 ```
 
 ---
