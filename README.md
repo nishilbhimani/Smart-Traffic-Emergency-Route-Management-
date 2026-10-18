@@ -150,6 +150,6 @@ This builds and populates `database/pulse.db` with all tables, seeds, and views.
 Simply open [`dashboard/index.html`](file:///Users/naitikdhiman/Desktop/untitled%20folder/dashboard/index.html) in any modern web browser (Chrome, Edge, Safari, Firefox).
 
 ### 3. Next Development Steps
-- **For the Backend Developer:** Follow the API query guide in [`database/README.md`](file:///Users/naitikdhiman/Desktop/untitled%20folder/database/README.md) to wire Express.js or FastAPI endpoints to `pulse.db` or MySQL.
-- **For the Routing Engine:** Integrate Dijkstra / A* route calculation over the node graph using the intersection coordinates provided in `traffic_signals` and `routes`.
-- **For the Frontend Integrator:** Replace simulated in-memory variables in `dashboard/index.html` with `fetch()` calls to backend endpoints.
+- **For the Backend Developer:** Follow the API query guide in [`database/README.md`](file:///Users/naitikdhiman/Desktop/untitled%20folder/database/README.md) to wire Express.js or FastAPI endpoints to `pulse.db` or MySQL
+- **For the Routing Engine:** Integrate Dijkstra / A* route calculation over the node graph using the intersection coordinates provided in `traffic_signals` and `routes`
+- **For the Frontend Integrator:** Replace simulated in-memory variables in `dashboard/index.html` with `fetch()` calls to backend endpoints
