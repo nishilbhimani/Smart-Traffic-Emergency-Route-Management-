@@ -1,8 +1,3 @@
-# Smart-Traffic-Emergency-Route-Management-# 🚨 Pulse · Smart Traffic & Emergency Route Management
-**Project-Based Learning (PBL) — Operating Systems & DBMS**  
-**Graphic Era University | Team T079 (Phase II)**
-
----
 # 🚨 Pulse · Smart Traffic & Emergency Route Management
 **Operating Systems & Relational DBMS Architecture**
 
